@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/df897ffc-d898-402d-87b3-6d97f0cc4e1e
+**URL**: https://lovable.dev/projects/pchv
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/df897ffc-d898-402d-87b3-6d97f0cc4e1e) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/pchv) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
